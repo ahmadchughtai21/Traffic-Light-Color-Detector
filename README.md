@@ -1,0 +1,2 @@
+# Traffic Light Color Detector
+ This C++ program serves as a simple traffic light color detector. It prompts the user to input a color (case-insensitive), and based on the input, it identifies the corresponding traffic light color. The program recognizes the colors red, green, and yellow, providing a message indicating the detected color. If the input is not one of these specified colors, the program prompts the user to enter either "Red," "Green," or "Yellow."
